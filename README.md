@@ -26,7 +26,7 @@ Technologies used
 Screenshot
 ---
 <div align="center">
-        <img width="40%" src="public/images/Screen Shot 2015-03-12 at 14.32.12.png">
+        <img width="70%" src="public/images/Screen Shot 2015-03-12 at 14.32.12.png">
 </div>
 Heroku (live)
 -----
