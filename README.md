@@ -1,6 +1,6 @@
 [![Code Climate](https://codeclimate.com/github/kevinlanzon/rps-challenge/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/rps-challenge)
 [![Build Status](https://travis-ci.org/kevinlanzon/rps-challenge.svg?branch=master)](https://travis-ci.org/kevinlanzon/rps-challenge)
-[![Code Climate](https://codeclimate.com/github/kevinlanzon/rps-challenge/badges/gpa.svg)](https://codeclimate.com/github/kevinlanzon/rps-challenge)
+[![Test Coverage](https://codeclimate.com/github/kevinlanzon/rps-challenge/badges/coverage.svg)](https://codeclimate.com/github/kevinlanzon/rps-challenge)
 Rock, Paper, Scissors
 ==========
 [Makers Academy](http://www.makersacademy.com) Week 3 Challenge
