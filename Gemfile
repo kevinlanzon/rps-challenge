@@ -10,5 +10,6 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec'
   gem 'shotgun'
+  gem "codeclimate-test-reporter", require: nil
 
 end
